@@ -11,7 +11,7 @@ This file will be the entry point of your portfolio.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mary's Portfolio</title>
+    <title> Maina John Rokario's Portfolio</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         /* Custom CSS for styling */
@@ -45,7 +45,7 @@ This file will be the entry point of your portfolio.
 
     <!-- Navigation bar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Mary's Portfolio</a>
+        <a class="navbar-brand" href="#">Maina John Rokario's Portfolio</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -64,12 +64,12 @@ This file will be the entry point of your portfolio.
     <!-- Header Section -->
     <header>
         <img src="your-photo.jpg" alt="Your photo" class="img-fluid rounded-circle" style="width: 150px;">
-        <h1>Mary - Electrician and Technology Enthusiast</h1>
+        <h1> Maina John Rokario - Mechanical, Petroleum and Information Technology Enthusiast</h1>
     </header>
 
     <!-- Tagline Section -->
     <section class="tagline">
-        <p>Bringing electrical projects to life with precision and creativity.</p>
+        <p>Bringing mechanical projects to life with precision and creativity.</p>
     </section>
 
     <!-- Skills and Hobbies Section -->
@@ -78,9 +78,9 @@ This file will be the entry point of your portfolio.
             <div class="col-md-6">
                 <h2>Skills</h2>
                 <ul>
-                    <li>Electrical wiring</li>
+                    <li> Mechanical component assembly</li>
                     <li>Smart home installations</li>
-                    <li>Electrical system maintenance</li>
+                    <li> Computer system maintenance</li>
                     <li>Problem-solving and troubleshooting</li>
                 </ul>
             </div>
@@ -89,7 +89,7 @@ This file will be the entry point of your portfolio.
                 <ul>
                     <li>Learning computer science</li>
                     <li>Exploring renewable energy</li>
-                    <li>DIY electronics projects</li>
+                    <li> Mechanical and electronics projects</li>
                     <li>Hiking and outdoor adventures</li>
                 </ul>
             </div>
@@ -99,9 +99,9 @@ This file will be the entry point of your portfolio.
     <!-- Footer Section -->
     <footer>
         <p>Connect with me on:</p>
-        <a href="https://linkedin.com">LinkedIn</a> |
-        <a href="https://github.com">GitHub</a> |
-        <a href="mailto:youremail@example.com">Email</a>
+        <a href="https://www.linkedin.com/in/maina-john-523558324/">LinkedIn</a> |
+        <a href="https://github.com/Pool56/Emobilis-First-assignment">GitHub</a> |
+        <a href="mailto:rokario@students.uonbi.ac.ke">Email</a>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
